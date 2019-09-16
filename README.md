@@ -1,2 +1,2 @@
 # gitmerge
-merge
+Welcome to Git Merge!!
